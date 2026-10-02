@@ -14,7 +14,7 @@ const timeline = [
   {
     year: "1989",
     title: "Ingreso a la Fuerza Policial",
-    desc: "omenzó su carrera en las fuerzas de seguridad con vocación de servicio y compromiso con la ley.",
+    desc: "Comenzó su carrera en las fuerzas de seguridad con vocación de servicio y compromiso con la ley.",
   },
   {
     year: "2004",

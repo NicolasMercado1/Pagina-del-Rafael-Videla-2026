@@ -137,13 +137,13 @@ export default function HomePage() {
                 </h2>
                 <div className="space-y-4 text-muted-foreground leading-relaxed">
                   <p>
-                    Rafael Videla es un hombre forjado en el servicio público. Con más de 25 años de carrera en las fuerzas de seguridad, llegó a ser Jefe de la Policía, donde lideró operativos de prevención del delito, modernizó la fuerza y fortaleció el vínculo con la comunidad.
+                    Rafael Videla es un hombre forjado en el servicio público. Con más de 30 años de carrera en las fuerzas de seguridad provincial y llegó a ser Jefe de Policía, liderando personal policial de distintos ámbitos y al servicio de los Mendocinos. Contribuyó en la modernización de la institución y vivió los distintos cambios de paradigma que hubo en su carrera policial y que lo llevan a interpretar los cambios sociales y de costumbres de la población. Es por eso que sus convicciones se sustentan en el servicio al prójimo.
                   </p>
                   <p>
-                    Hoy, como precandidato a Intendente por el partido de Luis Petri, pone su experiencia, liderazgo y compromiso al servicio de todos los vecinos. Su visión combina orden, progreso y cercanía para transformar la ciudad desde la gestión.
+                    Hoy, como precandidato a Intendente de San Rafael representando las propuestas del Dr Luis Petri, futuro Gobernador de la provincia de Mendoza; pone su experiencia, liderazgo y compromiso al servicio de todos los Sanrafaelinos. Su visión combina  orden, austeridad, progreso y cercanía para transformar a San Rafael desde la gestión.
                   </p>
                   <p>
-                    Padre de familia, vecino comprometido y líder natural, Rafael cree que una ciudad segura, moderna y con oportunidades es posible — y está decidido a construirla.
+                    Padre de familia, vecino comprometido y líder natural, Rafael cree que una ciudad segura, moderna y con oportunidades es posible — y está decidido a construirla al igual que los distritos del Departamento.
                   </p>
                 </div>
                 <div className="mt-6 flex gap-4">
